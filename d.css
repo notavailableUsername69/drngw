@@ -1,0 +1,21 @@
+#canvas {
+  position: relative;
+  width: 600px;
+  height: 400px;
+  cursor: crosshair;
+}
+
+#toolbar {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
